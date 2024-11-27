@@ -1,0 +1,27 @@
+yolov需要下载包
+pip install ultralytics           
+            psutil                
+pip install pandas                
+pip install albumentations        
+conda install matplotlib          
+conda install seaborn             
+conda install tqdm                
+conda install scipy               
+conda install pillow              
+conda install requests            
+conda install PyYAML              
+conda install tensorboard         
+
+pip install onnxslim
+pip install onnxruntime
+
+
+                 环境
+                 numpy                     1.23.5  
+conda update -n yolov8 pandas 升级包
+
+安装自己下载的包
+cd /d C:\Users\sleep\Desktop\2.5.1转到包所在文件夹
+conda install --offline packup全名
+
+conda remove --name your_env_name --all  
