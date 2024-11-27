@@ -1,0 +1,9 @@
+#path: yolov # dataset root dir
+train: C:\Users\sleep\Desktop\yolov8\datasets\images\train  # train images (relative to 'path') 1052 images
+val: C:\Users\sleep\Desktop\yolov8\datasets\images\val # val images (relative to 'path') 225 images
+#test: test/test # test images (relative to 'path') 227 images
+
+# Classes
+names:
+  0: CT
+  1: T
