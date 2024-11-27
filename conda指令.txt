@@ -11,6 +11,7 @@ conda install pillow
 conda install requests            
 conda install PyYAML              
 conda install tensorboard         
+conda install opencv-pythong=4.6
 
 pip install onnxslim
 pip install onnxruntime
